@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalc", "ShapeCalc\ShapeCalc.csproj", "{E117A46A-AE28-4D3F-BB32-1EBA110661E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeController", "ShapeController\ShapeController.csproj", "{AD8DCBFD-D64A-4322-81BB-AB726E2A71AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeController", "ShapeController\ShapeController.csproj", "{AD8DCBFD-D64A-4322-81BB-AB726E2A71AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductCategories", "ProductCategories", "{300C9661-DA63-40E5-B473-387E37027FF4}"
+	ProjectSection(SolutionItems) = preProject
+		ProductCategories.sql = ProductCategories.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
